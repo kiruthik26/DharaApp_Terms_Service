@@ -1,0 +1,106 @@
+DHARA LOGISTICS
+Terms of Service
+Effective Date: 16 November 2026
+Last Updated: 16 November 2026
+1. Introduction
+Welcome to Dhara Logistics, a logistics and transportation management application operated by DIKITE Pvt. Ltd. ("Company", "we", "us", or "our").
+These Terms of Service govern the access to and use of the Dhara Logistics mobile application ("App") by authorized drivers.
+By accessing or using the App, you acknowledge that you have read and understood these Terms and agree to comply with them.
+2. Purpose of the Application
+Dhara Logistics is designed to support logistics and transportation operations by allowing authorized drivers to access relevant work-related information and perform assigned activities.
+The application may provide features such as:
+Accessing assigned deliveries and transportation tasks.
+Viewing delivery and shipment details.
+Updating delivery and task statuses.
+Recording delivery confirmations and related information.
+Sharing location information for operational purposes.
+Receiving work-related notifications and updates.
+Available features may vary depending on the driver's account permissions and the Company's operational requirements.
+3. Driver Account and Access
+Access to the application is restricted to authorized drivers.
+Drivers must use the login credentials provided or approved by the Company.
+Drivers are responsible for maintaining the confidentiality of their login credentials.
+Drivers must not share their accounts or login credentials with unauthorized individuals.
+Drivers must immediately report suspected unauthorized access or account misuse to the Company.
+The Company reserves the right to suspend or revoke access when necessary for security or operational reasons.
+4. Driver Responsibilities
+Drivers using the application agree to:
+Provide accurate and truthful information.
+Follow assigned delivery and transportation instructions.
+Update task and delivery statuses accurately and promptly.
+Provide correct delivery confirmation information.
+Handle shipment and delivery information responsibly.
+Follow applicable traffic rules, transportation regulations and safety requirements.
+Use the application only for authorized business purposes.
+Report technical problems, incorrect information or operational issues to the appropriate Company representative.
+5. Location Permissions and Tracking
+The application may request access to the device's location to support logistics operations.
+Location information may be used for:
+Tracking delivery progress.
+Monitoring assigned transportation activities.
+Providing operational updates.
+Supporting route coordination and delivery management.
+Improving logistics operations.
+Drivers should enable location permissions when required for authorized work-related activities.
+Location information will be handled in accordance with the Company's Privacy Policy.
+6. Acceptable Use
+Drivers must not:
+Use the application for unauthorized or illegal activities.
+Provide false delivery information or manipulate delivery records.
+Attempt to access another driver's account.
+Modify, reverse-engineer or interfere with the application's functionality.
+Introduce malicious software or attempt unauthorized access to Company systems.
+Share confidential shipment, customer or operational information with unauthorized persons.
+Any misuse may result in suspension of application access and further action in accordance with applicable Company policies and laws.
+7. Data and Information Accuracy
+Drivers are responsible for ensuring that the information they enter into the application is accurate and complete.
+The Company is not responsible for errors resulting from incorrect information submitted by drivers or from inaccurate information supplied by third parties.
+8. Application Availability and Updates
+The Company will make reasonable efforts to maintain the availability and functionality of the application.
+However, the application may occasionally become unavailable due to:
+Scheduled maintenance.
+Software updates.
+Network connectivity issues.
+Device compatibility issues.
+Technical failures or circumstances beyond the Company's reasonable control.
+The Company may modify, update or discontinue application features when necessary for operational, technical or security reasons.
+9. Intellectual Property
+All rights relating to the application, including its software, design, branding, graphics and associated materials, belong to the Company or its respective licensors.
+Drivers are granted limited permission to use the application solely for authorized work-related activities.
+No part of the application may be copied, distributed, modified or commercially exploited without prior written authorization.
+10. Suspension and Termination
+The Company may suspend or terminate a driver's access to the application if:
+The driver is no longer authorized to use the application.
+These Terms are violated.
+Unauthorized access or suspicious activity is detected.
+Access must be restricted for security, legal or operational reasons.
+Drivers may contact the Company for assistance with account access or termination-related questions.
+11. Limitation of Liability
+To the extent permitted by applicable law, the Company shall not be responsible for losses arising from:
+Temporary application downtime or service interruptions.
+Network or internet connectivity failures.
+Device malfunctions or compatibility issues.
+Incorrect information entered by users.
+Unauthorized access resulting from failure to protect login credentials.
+Nothing in these Terms excludes liability that cannot legally be excluded under applicable law.
+12. Privacy and Data Protection
+The Company may collect and process information necessary to operate the application and support logistics activities.
+This may include account information, delivery-related information, device information and location information, where applicable.
+The collection and processing of personal information are governed by the Dhara Logistics Privacy Policy:
+Privacy Policy: https://kiruthik26.github.io/Privacy_Policy/privacy-policy.html
+Drivers are encouraged to review the Privacy Policy to understand how their information is handled.
+13. Changes to These Terms
+The Company reserves the right to update these Terms when necessary.
+Updated Terms will be published through an appropriate online location. Continued use of the application after applicable changes take effect will be subject to the updated Terms, to the extent permitted by law.
+14. Governing Law
+These Terms shall be governed by the applicable laws of India.
+Any disputes arising in connection with these Terms shall be handled by the competent courts having jurisdiction, subject to applicable law.
+15. Contact Information
+For questions, concerns or assistance regarding these Terms of Service, please contact:
+Company: DIKITE Pvt. Ltd.
+Application: Dhara Logistics
+Email: kks@dikite.com
+End of Terms of Service
+© 2026 DIKITE Pvt. Ltd. All rights reserved.
+Privacy Policy
+ 
